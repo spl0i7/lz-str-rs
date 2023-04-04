@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["compress","Compress a [`JsString`]."],["decompress","Decompress a [`JsString`]."]]};
